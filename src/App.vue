@@ -58,6 +58,6 @@
     color: red
   }
   .zero{
-    color: tan;
+    color: rgb(203, 169, 125);
   }
 </style>
